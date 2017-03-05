@@ -6,4 +6,3 @@ EXPOSE 5000
 
 # Run the command
 CMD ["python", "./app.py"]
-
