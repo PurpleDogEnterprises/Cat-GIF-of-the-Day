@@ -5,4 +5,5 @@ FROM python:3-onbuild
 EXPOSE 5000
 
 # Run the command
-CMD ["python", "./app.py"]
+CMD ["python", "Cat-GIF-of-the-Day/app.py"]
+
